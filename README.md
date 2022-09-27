@@ -11,3 +11,5 @@
 ![IMG_1871](https://user-images.githubusercontent.com/103608431/192412463-5968d4a4-8b0b-4864-a93d-045df4abccb9.png)
 
 ![IMG_1876](https://user-images.githubusercontent.com/103608431/192412489-3de5f51c-41ab-45ab-be62-2f0b4b1ae79a.png)
+
+i chose to go with a very simple design so that kids just starting to learn how to do maths can understand it but not so simple so that older people can use it.
