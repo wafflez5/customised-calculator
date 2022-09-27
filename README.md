@@ -13,3 +13,8 @@
 ![IMG_1876](https://user-images.githubusercontent.com/103608431/192412489-3de5f51c-41ab-45ab-be62-2f0b4b1ae79a.png)
 
 i chose to go with a very simple design so that kids just starting to learn how to do maths can understand it but not so simple so that older people can use it.
+
+the calculator has add, subtract, multiply and divide so that everyone can use it.
+
+i used the color green to make it look better and not plain.
+i made the buttons big and spaced out enough so that people don't accidentally click the wrong button.
