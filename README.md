@@ -1,5 +1,7 @@
-# Customised Python Calculator
-### 10DT assessment
+---
+Lukas Dylan Hales: Design and Develop a Digital Outcome
+---
+
 
 
 ![IMG_1873](https://user-images.githubusercontent.com/103608431/192412279-b779d27f-dd7c-4ea4-b28a-f53778bfee0c.png)
@@ -11,6 +13,13 @@
 ![IMG_1871](https://user-images.githubusercontent.com/103608431/192412463-5968d4a4-8b0b-4864-a93d-045df4abccb9.png)
 
 ![IMG_1876](https://user-images.githubusercontent.com/103608431/192412489-3de5f51c-41ab-45ab-be62-2f0b4b1ae79a.png)
+
+
+About my project
+
+
+
+
 
 I chose to go with a very simple design so that kids just starting to learn how to do maths can understand it but not so simple so that older people can't use it. 
 this calculator was designed mainly for younger kids who are just learning how to use a calculator
