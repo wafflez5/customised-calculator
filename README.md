@@ -1,8 +1,20 @@
 ---
 Lukas Dylan Hales: Design and Develop a Digital Outcome
 ---
+# python calculator
 
+### About my project
 
+I chose to go with a very simple design so that kids just starting to learn how to do maths can understand it but not so simple so that older people can't use it. 
+this calculator was designed mainly for younger kids who are just learning how to use a calculator
+I chose not to use a decimal because it could confuse some of the yuonger people who use it and might complicate it to much.
+
+the calculator has add, subtract, multiply and divide so that everyone can use it.
+
+I used the color green to make it look more colourful and different.
+I made the buttons big and spaced out enough so that users don't accidentally click the wrong button.
+
+### The Design
 
 ![IMG_1873](https://user-images.githubusercontent.com/103608431/192412279-b779d27f-dd7c-4ea4-b28a-f53778bfee0c.png)
 
@@ -14,18 +26,3 @@ Lukas Dylan Hales: Design and Develop a Digital Outcome
 
 ![IMG_1876](https://user-images.githubusercontent.com/103608431/192412489-3de5f51c-41ab-45ab-be62-2f0b4b1ae79a.png)
 
-
-About my project
-
-
-
-
-
-I chose to go with a very simple design so that kids just starting to learn how to do maths can understand it but not so simple so that older people can't use it. 
-this calculator was designed mainly for younger kids who are just learning how to use a calculator
-I chose not to use a decimal because it could confuse some of the yuonger people who use it and might complicate it to much.
-
-the calculator has add, subtract, multiply and divide so that everyone can use it.
-
-I used the color green to make it look more colourful and different.
-I made the buttons big and spaced out enough so that users don't accidentally click the wrong button.
