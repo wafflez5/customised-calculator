@@ -14,7 +14,7 @@ the calculator has add, subtract, multiply and divide so that everyone can use i
 I used the color green to make it look more colourful and different.
 I made the buttons big and spaced out enough so that users don't accidentally click the wrong button.
 
-### The Design
+### Code and Design
 
 ![IMG_1873](https://user-images.githubusercontent.com/103608431/192412279-b779d27f-dd7c-4ea4-b28a-f53778bfee0c.png)
 
